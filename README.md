@@ -56,3 +56,4 @@ TreeCreator://mainFolder=C:/input&exportFolder=C:/output&file=txt&tree=yes
 
 Используйте `TreeCreator.exe` для отслеживания изменения в файлах. Создайте репозиторий в GitHub и выгружайте файлы в нее. `TreeCreator` поможет быстро создать древо файлов, а GitHub покажет изменения в файлах.
 
+[Установите сейчас](https://github.com/Paramert/TreeCreator/releases/)
